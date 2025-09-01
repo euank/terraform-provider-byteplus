@@ -8,4 +8,3 @@ terraform-provider-byteplus
 .*hcl
 output_result
 *.log
-go.sum
